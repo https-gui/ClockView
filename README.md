@@ -148,7 +148,7 @@ A proposta é oferecer uma ferramenta prática para quem precisa de um relógio 
 ### Executável para Windows
 
 > **Arquivo:** `ClockView.exe`  
-> **Versão:** [INFORME A VERSÃO]  
+> **Versão:** [1.1]  
 > **Compatibilidade:** consulte os requisitos do projeto antes de executar.
 
 **⬇️ [CLIQUE AQUI PARA BAIXAR O CLOCKVIEW](INSIRA_AQUI_O_LINK_DO_ARQUIVO_EXE)**
