@@ -1,12 +1,11 @@
-# #ClockView FREE DOWNLOAD
+# ClockView FREE DOWNLOAD
 
 ClockView - Preview de Relógio, Cronômetro, Despertador, Temporizador...
+
 ClockView - Preview of Clock, Stopwatch, Alarm Clock, Timer...
 
 
 EN
----
-
 # 🕒 ClockView — Digital and Analog Clock for Windows
 
 **A customizable clock for your everyday routine. Simple, practical, and completely free.**
@@ -90,12 +89,6 @@ If you'd like to support the project's development and continued maintenance, yo
 
 
 ---
-
-*ClockView is an independent project. Check the repository for licensing information, system requirements, and available releases.*
-
-
-
-
 PT-BR
 # 🕒 ClockView — Relógio Digital e Analógico para Windows
 
@@ -176,6 +169,12 @@ Se desejar contribuir com o desenvolvimento e a continuidade do projeto, você p
 **Toda contribuição é bem-vinda, mas doar é totalmente opcional. O ClockView continua gratuito.**
 
 [💙 FAZER UMA DOAÇÃO PELO PAYPAL](https://www.paypal.com/donate/?hosted_button_id=557HUPNMHMMHW)
+
+
+
+---
+
+*ClockView is an independent project. Check the repository for licensing information, system requirements, and available releases.*
 
 
 
