@@ -3,6 +3,7 @@
 ClockView - Preview de Relógio, Cronômetro, Despertador, Temporizador...
 
 ClockView - Preview of Clock, Stopwatch, Alarm Clock, Timer...
+---
 
 
 EN
@@ -86,9 +87,9 @@ If you'd like to support the project's development and continued maintenance, yo
 
 [💙 DONATE VIA PAYPAL](https://www.paypal.com/donate/?hosted_button_id=557HUPNMHMMHW)
 
-
-
 ---
+
+
 PT-BR
 # 🕒 ClockView — Relógio Digital e Analógico para Windows
 
