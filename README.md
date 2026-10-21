@@ -80,12 +80,10 @@ Se desejar contribuir com o desenvolvimento e a continuidade do projeto, você p
 
 [💙 FAZER UMA DOAÇÃO PELO PAYPAL](https://www.paypal.com/donate/?hosted_button_id=557HUPNMHMMHW)
 
-## 💻 Código-fonte
 
-Acesse o repositório oficial para conhecer o projeto, acompanhar suas atualizações e consultar os arquivos disponíveis.
 
-🔗 **[GitHub — ClockView](https://github.com/https-gui/ClockView)**
 
+EN
 ---
 
 # 🕒 ClockView — Digital and Analog Clock for Windows
@@ -168,11 +166,7 @@ If you'd like to support the project's development and continued maintenance, yo
 
 [💙 DONATE VIA PAYPAL](https://www.paypal.com/donate/?hosted_button_id=557HUPNMHMMHW)
 
-## 💻 Source code
 
-Visit the official repository to explore the project, follow updates, and access the available files.
-
-🔗 **[GitHub — ClockView](https://github.com/https-gui/ClockView)**
 
 ---
 
