@@ -1,179 +1,157 @@
-# 🕒 ClockView — Free Download
+# 🕒 ClockView
 
-**Digital Clock, Analog Clock, Stopwatch, Alarm Clock, Timer...**
+**A free, customizable digital and analog clock for Windows.**
 
-A customizable clock application for Windows, designed for personal, professional, and commercial environments.
+A simple and practical way to keep track of time at home, at work, or in commercial environments.
+
+**Download:** [ClockView for Windows](https://github.com/https-gui/ClockView/releases/latest/download/ClockView-Setup.exe) · **Support:** [Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=557HUPNMHMMHW)
 
 ---
 
 # 🇺🇸 English
 
-## 🕒 ClockView — Digital and Analog Clock for Windows
+## About ClockView
 
-**A customizable clock for your everyday routine. Simple, practical, and completely free.**
+ClockView is a customizable clock application for Windows that provides a convenient way to display the current time. Whether you need a clock for your desktop, office, store, reception area, school, or gym, ClockView offers a practical solution for keeping the time visible.
 
-ClockView is a Windows application designed to make time easier to see in personal, professional, and commercial environments. With customization options, a floating window, and full-screen mode, you can adapt the clock display to your needs.
-
-It's ideal for anyone who wants to keep the time visible while working, at home, or in a business environment.
+With digital and analog display options and customizable appearance settings, you can adapt the clock to your workspace and personal preferences.
 
 ## ✨ Features
 
-- **Digital clock:** Display hours, minutes, seconds, and date information.
-- **Analog clock:** View the time on a traditional clock face with hands.
-- **Full-screen mode:** Use the entire monitor to display the clock.
+- **Digital clock:** Display the current time, including hours, minutes, and seconds.
+- **Analog clock:** View the time using a traditional clock face and hands.
+- **Full-screen mode:** Display the clock across your entire monitor.
 - **Floating window:** Keep the clock visible while using other applications.
-- **Always-on-top mode:** Keep the clock above other windows.
-- **Visual customization:** Change background and text colors, font, and opacity.
-- **Custom date and time format:** Choose how the time, date, and day of the week are displayed.
-- **Adjustable size and position:** Place the clock wherever you prefer.
-- **Time zone settings:** Use the system time or select an available time zone.
-- **Quick access:** Manage the main options through the system tray menu.
+- **Always on top:** Keep the clock above other windows.
+- **Visual customization:** Adjust colors, fonts, and opacity.
+- **Date and time formats:** Customize how the time, date, and day of the week are displayed.
+- **Size and position controls:** Place and resize the clock according to your needs.
+- **Time zone settings:** Use your system time or select an available time zone.
+- **System tray access:** Quickly access the main options from the Windows notification area.
 
-## 🏪 Where Can ClockView Be Useful?
+## 🏪 Where Can You Use ClockView?
 
-ClockView can be used in a variety of environments where a visible time reference is helpful.
+ClockView can be useful in many environments, including:
 
-- **Markets and supermarkets:** Display a clock on checkout computers, counters, and administrative office monitors.
-- **Gyms and fitness studios:** Keep a clock visible at the front desk or in workout areas.
-- **Retail stores:** Make it easier for employees to check the time while assisting customers.
-- **Reception areas and waiting rooms:** Provide a visible time reference for staff and visitors.
-- **Offices:** Check the time without interrupting your workflow.
-- **Schools and computer labs:** Display the clock on a dedicated monitor in educational environments.
-- **Personal use:** Keep a large, customizable clock on your computer screen.
+- **Offices:** Keep the time visible during your workday.
+- **Retail stores and supermarkets:** Display the time at checkout counters, service desks, and administrative workstations.
+- **Gyms and fitness studios:** Provide a visible time reference for employees and visitors.
+- **Reception areas and waiting rooms:** Make it easier for staff and visitors to check the time.
+- **Schools and computer labs:** Display the clock on a dedicated monitor.
+- **Home computers:** Keep a customizable clock visible on your desktop.
 
-ClockView provides a simple way to turn an available computer or monitor into a convenient visual time reference.
+## 🖥️ Customize Your Clock
 
-## 🖥️ Make It Your Own
+Configure the clock to suit your environment by adjusting its appearance, size, position, transparency, and display format.
 
-Every environment has different needs. ClockView lets you customize the clock's appearance by adjusting colors, fonts, transparency, size, position, and display format.
+Choose between digital and analog modes and create a setup that works best for you.
 
-Choose between digital and analog modes and configure the clock to suit your workspace.
+## 🆓 Free to Use
 
-## 🆓 Free and Accessible
-
-ClockView is a free software project.
+ClockView is offered as a free software project.
 
 - No monthly fees.
-- No paid subscription.
+- No paid subscription required.
 - No payment required to use the application.
 
-The goal is to provide a practical, customizable clock for Windows users.
+## 📥 Download for Windows
 
-## 📥 Download ClockView
+**Get ClockView and try it for free!**
 
-**Download ClockView for free and get started!**
-
-### Windows Installer
-
-- **File:** `ClockView-Setup.exe`
+- **Installer:** `ClockView-Setup.exe`
 - **Version:** 1.1
 - **Platform:** Windows
 - **Price:** Free
 
-⬇️ **[CLICK HERE TO DOWNLOAD CLOCKVIEW](https://github.com/https-gui/ClockView/blob/da5028799c1f6098b68b2484d97023101c5fedb8/ClockView-Setup.exe?raw=true)**
+### ⬇️ [Download ClockView for Windows](https://github.com/https-gui/ClockView/releases/latest/download/ClockView-Setup.exe)
 
-Download the installer and follow the on-screen instructions to install ClockView on your Windows computer.
+Download the installer and follow the on-screen instructions to install the application.
 
-For the source code and other project files, visit the [ClockView GitHub repository](https://github.com/https-gui/ClockView).
+If the download link does not work, visit the [ClockView GitHub repository](https://github.com/https-gui/ClockView) to check the available files and releases.
 
-## ❤️ Support the Project
+## ❤️ Support ClockView
 
-Enjoying ClockView? Is it useful for your work, business, or everyday routine?
+If you find ClockView useful, you can support its development and maintenance with a voluntary donation through PayPal.
 
-If you'd like to support the project's development and continued maintenance, you can make a voluntary donation through PayPal.
+Donations are entirely optional. ClockView remains free to use, and every contribution is appreciated.
 
-**Every contribution is appreciated, but donations are entirely optional. ClockView remains free to use.**
-
-💙 **[DONATE VIA PAYPAL](https://www.paypal.com/donate/?hosted_button_id=557HUPNMHMMHW)**
+### 💙 [Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=557HUPNMHMMHW)
 
 ---
 
 # 🇧🇷 Português Brasileiro
 
-## 🕒 ClockView — Relógio Digital e Analógico para Windows
+## Sobre o ClockView
 
-**Um relógio personalizável para sua rotina. Simples, prático e totalmente gratuito.**
+O ClockView é um aplicativo de relógio personalizável para Windows que oferece uma maneira prática de visualizar as horas. Seja no computador pessoal, no escritório, em uma loja, recepção, escola ou academia, o ClockView ajuda a manter o horário sempre visível.
 
-O ClockView é um aplicativo para Windows desenvolvido para facilitar a visualização das horas em ambientes pessoais, profissionais e comerciais. Com opções de personalização, janela flutuante e modo de tela cheia, você pode adaptar a exibição do relógio às suas necessidades.
-
-É ideal para quem deseja manter as horas sempre visíveis durante o trabalho, em casa ou em estabelecimentos comerciais.
+Com opções de exibição digital e analógica e configurações de aparência, você pode adaptar o relógio ao seu ambiente de trabalho ou às suas preferências pessoais.
 
 ## ✨ Funcionalidades
 
-- **Relógio digital:** Exiba horas, minutos, segundos e informações de data.
-- **Relógio analógico:** Visualize as horas em um mostrador tradicional com ponteiros.
-- **Modo de tela cheia:** Utilize toda a tela do monitor para exibir o relógio.
-- **Janela flutuante:** Mantenha o relógio visível enquanto utiliza outros aplicativos.
-- **Sempre visível:** Deixe o relógio sobre as demais janelas.
-- **Personalização visual:** Altere as cores do fundo e do texto, a fonte e a opacidade.
-- **Formato personalizável:** Escolha como deseja visualizar as horas, a data e o dia da semana.
-- **Ajuste de tamanho e posição:** Posicione o relógio de acordo com sua preferência.
+- **Relógio digital:** Exibe as horas, os minutos e os segundos.
+- **Relógio analógico:** Apresenta as horas em um mostrador tradicional com ponteiros.
+- **Modo de tela cheia:** Utiliza todo o monitor para exibir o relógio.
+- **Janela flutuante:** Mantém o relógio visível enquanto você utiliza outros aplicativos.
+- **Sempre visível:** Permite manter o relógio sobre as demais janelas.
+- **Personalização visual:** Ajuste as cores, as fontes e a opacidade.
+- **Formatos de data e hora:** Personalize a exibição das horas, da data e do dia da semana.
+- **Ajuste de tamanho e posição:** Redimensione e posicione o relógio conforme sua necessidade.
 - **Configuração de fuso horário:** Utilize o horário do sistema ou selecione um fuso disponível.
-- **Acesso rápido:** Gerencie as principais opções pelo menu da bandeja do sistema.
+- **Acesso pela bandeja do sistema:** Acesse rapidamente as principais opções pela área de notificação do Windows.
 
-## 🏪 Onde o ClockView Pode Ser Útil?
+## 🏪 Onde o ClockView Pode Ser Utilizado?
 
-O ClockView pode ser utilizado em diferentes ambientes que necessitam de uma referência visual de horário.
+O ClockView pode ser útil em diversos ambientes, como:
 
-- **Mercados e supermercados:** Mantenha um relógio visível em computadores de caixas, balcões e escritórios administrativos.
-- **Academias e estúdios fitness:** Disponibilize um relógio na recepção ou nas áreas de treinamento.
-- **Lojas e comércios:** Facilite a consulta das horas durante o atendimento ao público.
-- **Recepções e salas de espera:** Mantenha o horário visível para funcionários e visitantes.
-- **Escritórios:** Acompanhe as horas sem precisar interromper suas atividades.
-- **Escolas e laboratórios de informática:** Utilize um monitor para exibir o relógio em ambientes educacionais.
-- **Uso pessoal:** Mantenha um relógio grande e personalizável na tela do seu computador.
+- **Escritórios:** Mantenha as horas visíveis durante o expediente.
+- **Lojas e supermercados:** Exiba o horário em caixas, balcões de atendimento e computadores administrativos.
+- **Academias e estúdios fitness:** Disponibilize uma referência de horário para funcionários e visitantes.
+- **Recepções e salas de espera:** Facilite a consulta das horas por funcionários e visitantes.
+- **Escolas e laboratórios de informática:** Exiba o relógio em um monitor dedicado.
+- **Computadores pessoais:** Mantenha um relógio personalizável visível na área de trabalho.
 
-O ClockView oferece uma maneira simples de transformar um monitor ou computador disponível em uma referência visual de horário.
+## 🖥️ Personalize Seu Relógio
 
-## 🖥️ Personalize do Seu Jeito
+Configure o relógio de acordo com o ambiente em que será utilizado. Ajuste sua aparência, tamanho, posição, transparência e formato de exibição.
 
-Cada ambiente tem suas próprias necessidades. Por isso, o ClockView permite personalizar a aparência do relógio, ajustando cores, fontes, transparência, tamanho, posição e formato de exibição.
+Escolha entre os modos digital e analógico e personalize a exibição de acordo com suas preferências.
 
-Escolha entre o visual digital ou analógico e configure o relógio para combinar com seu espaço de trabalho.
+## 🆓 Gratuito para Utilizar
 
-## 🆓 Gratuito e Acessível
+O ClockView é disponibilizado gratuitamente.
 
-O ClockView é um projeto disponibilizado gratuitamente.
+- Sem mensalidades.
+- Sem necessidade de assinatura paga.
+- Sem pagamento obrigatório para utilizar o aplicativo.
 
-- Sem mensalidade.
-- Sem assinatura paga.
-- Sem necessidade de pagamento para utilizar o aplicativo.
+## 📥 Download para Windows
 
-A proposta é oferecer uma ferramenta prática e personalizável para quem precisa de um relógio no Windows.
+**Baixe o ClockView e experimente gratuitamente!**
 
-## 📥 Baixe o ClockView
-
-**Baixe o ClockView gratuitamente e comece a usar!**
-
-### Instalador para Windows
-
-- **Arquivo:** `ClockView-Setup.exe`
+- **Instalador:** `ClockView-Setup.exe`
 - **Versão:** 1.1
 - **Plataforma:** Windows
 - **Preço:** Gratuito
 
-⬇️ **[CLIQUE AQUI PARA BAIXAR O CLOCKVIEW](https://github.com/https-gui/ClockView/blob/da5028799c1f6098b68b2484d97023101c5fedb8/ClockView-Setup.exe?raw=true)**
+### ⬇️ [Baixar ClockView para Windows](https://github.com/https-gui/ClockView/releases/latest/download/ClockView-Setup.exe)
 
-Baixe o instalador e siga as instruções exibidas na tela para instalar o ClockView no seu computador com Windows.
+Baixe o instalador e siga as instruções exibidas na tela para instalar o aplicativo.
 
-Para consultar o código-fonte e os demais arquivos do projeto, acesse o [repositório ClockView no GitHub](https://github.com/https-gui/ClockView).
+Se o link de download não funcionar, acesse o [repositório ClockView no GitHub](https://github.com/https-gui/ClockView) para consultar os arquivos e as versões disponíveis.
 
-## ❤️ Apoie o Projeto
+## ❤️ Apoie o ClockView
 
-Gostou do ClockView? Ele é útil para você, seu trabalho ou seu negócio?
+Se o ClockView for útil para você, considere apoiar o desenvolvimento e a manutenção do projeto por meio de uma doação voluntária pelo PayPal.
 
-Se desejar contribuir com o desenvolvimento e a continuidade do projeto, você pode realizar uma doação voluntária pelo PayPal.
+As doações são totalmente opcionais. O ClockView continuará gratuito, e toda contribuição será bem-vinda.
 
-**Toda contribuição é bem-vinda, mas doar é totalmente opcional. O ClockView continua gratuito.**
-
-💙 **[FAZER UMA DOAÇÃO PELO PAYPAL](https://www.paypal.com/donate/?hosted_button_id=557HUPNMHMMHW)**
+### 💙 [Fazer uma doação pelo PayPal](https://www.paypal.com/donate/?hosted_button_id=557HUPNMHMMHW)
 
 ---
 
 ## 📄 Project Information | Informações do Projeto
 
-**English:** ClockView is an independent software project. Please check the repository for licensing information, system requirements, and updates.
+**English:** ClockView is an independent software project. Check this repository for source code, releases, licensing information, and updates.
 
-**Português:** O ClockView é um projeto de software independente. Consulte o repositório para obter informações sobre licença, requisitos do sistema e atualizações.
-
-**Repository:** [https://github.com/https-gui/ClockView](https://github.com/https-gui/ClockView)
+**Português:** O ClockView é um projeto de software independente. Consulte este repositório para acessar o código-fonte, as versões disponíveis, as informações de licença e as atualizações.
