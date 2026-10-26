@@ -4,8 +4,6 @@
 
 ClockView is a free, customizable clock application for Windows, designed for personal, professional, and commercial environments.
 
-🌐 **Official Website:** [https://viewclock.vercel.app](https://viewclock.vercel.app)
-
 ⬇️ **[Download ClockView for Windows](https://github.com/https-gui/ClockView/releases/download/ClockView-Setup/ClockView-Setup.exe)**
 
 ❤️ **[Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=557HUPNMHMMHW)**
